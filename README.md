@@ -46,4 +46,15 @@ Suspension Coil Dataset Link: [Suspension_Coil.csv](https://github.com/timbialek
 
 ## T-Tests on Suspension Coils
 
+Perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
+
+t-test for whole population:
+
+
+t-test for lot 1:
+
+t-test for lot 2:
+
+t-test for lot 3:
+
 
