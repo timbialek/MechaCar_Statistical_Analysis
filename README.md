@@ -7,7 +7,8 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 
 R v4.2.0, RStudio build 485
 
-MechaCare Dataset Link: [MechaCar_mpg.csv](https://github.com/timbialek/MechaCar_Statistical_Analysis/blob/main/MechaCar_mpg.csv)
+MechaCare Dataset Link: [MechaCar_mpg.csv](https://github.com/timbialek/MechaCar_Statistical_Analysis/blob/main/Resources/MechaCar_mpg.csv)
+Suspension Coil Dataset Link: [Suspension_Coil.csv](https://github.com/timbialek/MechaCar_Statistical_Analysis/blob/main/Resources/Suspension_Coil.csv)
 
 ## Linear Regression to Predict MPG
 
@@ -30,10 +31,19 @@ MechaCare Dataset Link: [MechaCar_mpg.csv](https://github.com/timbialek/MechaCar
 
 ## Summary Statistics on Suspension Coils
 
+
+![](https://github.com/timbialek/MechaCar_Statistical_Analysis/blob/main/Resources/Total_Summary.PNG)
+
+
+![](https://github.com/timbialek/MechaCar_Statistical_Analysis/blob/main/Resources/Lot_Summary.PNG)
+
+
 * The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
+	* The overal summary has varaince of 62.29 whihc would be with acceptable limts
+	* Lot 1 has a varaince of .97 and lot 2 has a varaince of 7.47 which are also both within the acceptable parameters
+	* Lot 3 has a variance of 170.29 and is out the accepltable range and does not meet the required specification 100 lbs per square inch and implies there are some kind of irregularies at this location.  
 
-
-
+## T-Tests on Suspension Coils
 
 
