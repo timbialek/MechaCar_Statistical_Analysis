@@ -49,12 +49,24 @@ Suspension Coil Dataset Link: [Suspension_Coil.csv](https://github.com/timbialek
 Perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
 
 t-test for whole population:
+![](https://github.com/timbialek/MechaCar_Statistical_Analysis/blob/main/Resources/t-test_whole_population.png)
 
+The p-value of .06 is greater than the .05 indicating that there is no statistical difference and the null hypotheses is accepted 
 
 t-test for lot 1:
+![](https://github.com/timbialek/MechaCar_Statistical_Analysis/blob/main/Resources/t-test_lot_1.png)
+
+For lot 1 The p-value of .06 is greater than the .05 indicating that there is no statistical difference and the null hypotheses is accepted 
 
 t-test for lot 2:
+![](https://github.com/timbialek/MechaCar_Statistical_Analysis/blob/main/Resources/t-test_lot_2.png)
+
+For lot 2 The p-value of .06 is greater than the .05 indicating that there is no statistical difference and the null hypotheses is accepted 
 
 t-test for lot 3:
+![](https://github.com/timbialek/MechaCar_Statistical_Analysis/blob/main/Resources/t-test_lot_3.png)
 
+For lot 3 The p-value of .04 is less than .05 indicating that there is a statistical difference and the null hypotheses is rejected 
+
+The t-tests for lot 3 further confirms what we have already seen in the above statistics in that there is something happening at lot 3 that is causing a them not to meet the required specifications.
 
