@@ -18,7 +18,7 @@ R v4.2.0, RStudio build 485
 
 
 * Is the slope of the linear model considered to be zero? Why or why not?
-	* The slope of the linear model is not condisered zero.  The p-value of of the multiple linear regresion model is 5.35x10<sup>-11</sup> which is very significant and will allow us to reject the null hypothisis.
+	* The slope of the linear model is not condisered zero.  The p-value of of the multiple linear regresion model is 5.35x10<sup>-11</sup> which is very significantly less than the 0.05 and will allow us to reject the null hypothisis.
 
 
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
