@@ -7,7 +7,10 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 
 R v4.2.0, RStudio build 485
 
+MechaCare Dataset Link: [MechaCar_mpg.csv](https://github.com/timbialek/MechaCar_Statistical_Analysis/blob/main/MechaCar_mpg.csv)
+
 ## Linear Regression to Predict MPG
+
 
 ![](https://github.com/timbialek/MechaCar_Statistical_Analysis/blob/main/Resources/Deviverable-1.PNG)
 
