@@ -28,9 +28,12 @@ MechaCare Dataset Link: [MechaCar_mpg.csv](https://github.com/timbialek/MechaCar
 	* The r-square value is equal to 0.7149 meaning about 71% of the data can be explained by the the regression line.
 
 
+## Summary Statistics on Suspension Coils
+
+* The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 
 
 
-Tableau Story Link: [Citibike Tableau Story](https://public.tableau.com/app/profile/timothy.bialek/viz/NYCBikeChallenge_16513578165240/CitibikeStory?publish=yes)
+
 
