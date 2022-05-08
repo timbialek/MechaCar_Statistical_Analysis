@@ -74,7 +74,11 @@ The t-tests for lot 3 further confirms what we have already seen in the above st
 ## Study Design: MechaCar vs Competition
 
 Given the current climate of ever rising gas prices a statistical study of the city and highway fuel efficiency would be very beneficial to consumers when it comes to making a decision on a vehicle purchase
+
 This analysis would test the miles per gallon for the MechaCar compared to the miles per gallon for competitor car models in both the city and highway environments
+
 The null hypothesis would be that there is no difference between the MechaCar and its competitors when compared against similar vehicle types.
+
 A Linear Regression model on the city and highway fuel efficiency which would allow use to see graphically how the models compare to each other.  I would also use the t-testing similar to above to compare the different model types to the MechaCar for any statistical differences in the mpg in both settings.
+
 Metrics included in the analysis would be City and Highway fuel efficiency (dependent variable), Car Model, Horse power, vehicle weight, AWD, MPG in highway setting, and MPG in City Setting.
